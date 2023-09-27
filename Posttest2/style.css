@@ -207,8 +207,7 @@ p{
     }
 
     .navbar{
-        background-color: #ABACB2;
-        height: 13vh;
+        padding: 0;
     }
 
     .logo{
